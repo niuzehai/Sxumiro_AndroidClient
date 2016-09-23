@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+>
+
+    <include layout="@layout/app_bar" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/app_bar"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:orientation="vertical"
+       >
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/register_account_InputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <EditText
+                android:id="@+id/register_account"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/user_name"
+                android:inputType="textPersonName" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/register_account_pwd_InputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <EditText
+                android:id="@+id/register_account_pwd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/pwd"
+                android:inputType="textPassword" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/register_account_pwd_again_InputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <EditText
+                android:id="@+id/register_account_pwd_again"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/pwd_again"
+                android:inputType="textPassword" />
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:id="@+id/bt_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/add_tag_btn_selector"
+            android:text="@string/register"
+            android:enabled="false"
+            android:textColor="@android:color/white"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/login_phone"
+            android:layout_width="wrap_content"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:text="@string/login_phone"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/clickable_text_blue_color"
+            android:layout_height="wrap_content"
+            android:onClick="SkipLogin"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/skip_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/clickable_text_gray_color"
+        android:text="@string/skip_login"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:onClick="SkipLogin"/>
+</RelativeLayout>

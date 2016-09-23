@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.victor\lib\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="81c668ce1da94d89f2d016cd15490c16df6187c9">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.victor-lib-1.0.1_5816915df9d2f713e7c2a4e95ace15d44897e33a.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\greendao-1.3.0-beta-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="185a8ff3f50dbd99e5238d6d411ee86dd87d2b0a">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\greendao-1.3.0-beta-1_93bd407817cbd20f0566d1122586ee2544a4e8f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.5.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ec06b192478fcc1acd79f399926c48444c02f86">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.mikepenz-fontawesome-typeface-4.5.0.1_674de7680e1b177e467943cc4d8e287f52342077.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\cn.pedant.sweetalert-library-1.3_685998c7f811ae6c2854a00c4e71965fbbadd7ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.3.1_52ed60c3cfefe5efa98f7dc7c1aa6859c236acc5.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\uk.co.chrisjenx-calligraphy-2.1.0_d4bca8c0315dc2b8b2fa2b0c4d4cddbab1af5c31.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.0_ced5b0390a394cce24420d84545a4ee16a746e71.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\library\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="773103b47908c3026873309dd5d968b7fc6556eb">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.ogaclejapan.smarttablayout-library-1.6.0_ad424c452f7d50387e12a56405d447464e279505.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e9e758b0c20307810a65790e70261d4705a53a9">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-core-0.8.5.6_da670a66643c5d1e0dbf1051a13e57f2458ea319.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_c5a573687790528960a2cdb5042d396490d51899.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.5.0\d737653459be272e881d51024274fa4785225641\okhttp-urlconnection-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d737653459be272e881d51024274fa4785225641">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.5.0_a0cff00549b1fa46c2091696b8f8c8971e20ef76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\haha-1.3_2de8629f8471de321d4f185494a8420d2b7db5be.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\uk-co-senab-photoview-source.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f45f6f2468c04434cbb5489fcdc7b3dd45b13cd3">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\uk-co-senab-photoview-source_bf5808a04df481baedd83749f51915f74afd61c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.3.1_bff71017ec040d96040347847022b3e63832fca9.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\utils-v4\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7b6793eb8e6071cd11334f1b0af8dca2e662a561">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.ogaclejapan.smarttablayout-utils-v4-1.6.0_980dd56db9e403bed731bb33830a1fc486a940fa.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\gson-2.2.4_40d71b8c15555b523cb4fd145c08024af90c8ec7.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.2_516a80543cf98ca7e9563f5d2009a1053eeabad0.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_8423574ee43226d6c92a9bbda3817a4dc8f7a375.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.5.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9ec06b192478fcc1acd79f399926c48444c02f86">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.mikepenz-fontawesome-typeface-4.5.0.1_674de7680e1b177e467943cc4d8e287f52342077.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_2e6189822ad1c7f8a75f6ea91853e3b2ada47b7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.3.1_52ed60c3cfefe5efa98f7dc7c1aa6859c236acc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_03e25c6b3178abc8ecb48b05be1f281aa0724b29.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\gson-2.2.4_40d71b8c15555b523cb4fd145c08024af90c8ec7.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.mikepenz\ionicons-typeface\2.0.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcdc378ec20dbeaaf0173eedac6b38c45489b257">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.mikepenz-ionicons-typeface-2.0.1.1_deedddb5c6596aafe6dc030353e8299aa05e1e47.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.2_516a80543cf98ca7e9563f5d2009a1053eeabad0.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.3.0_2158ab797410fea1299179f2f4dac60613e17098.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.5.0\d737653459be272e881d51024274fa4785225641\okhttp-urlconnection-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d737653459be272e881d51024274fa4785225641">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.5.0_a0cff00549b1fa46c2091696b8f8c8971e20ef76.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\gson-2.2.4_40d71b8c15555b523cb4fd145c08024af90c8ec7.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\utils-v4\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7b6793eb8e6071cd11334f1b0af8dca2e662a561">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.ogaclejapan.smarttablayout-utils-v4-1.6.0_980dd56db9e403bed731bb33830a1fc486a940fa.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_8634812c072dabc4b825810f30840c1a0fd5f389.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\haha-1.3_2de8629f8471de321d4f185494a8420d2b7db5be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_03e25c6b3178abc8ecb48b05be1f281aa0724b29.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.victor\lib\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81c668ce1da94d89f2d016cd15490c16df6187c9">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.victor-lib-1.0.1_5816915df9d2f713e7c2a4e95ace15d44897e33a.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_2c1281809d9502f3eace4ab8acad0b72c6411d55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_03e25c6b3178abc8ecb48b05be1f281aa0724b29.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.0_a7e25c31fe0e8d2e7e3a6baa3ab8663c3bda7987.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.10\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="723cdf1c3837f94e5da19a77e32594b7ba0f3282">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.mikepenz-iconics-core-2.5.10_c466ad92938473ebada9f6971b7eb23aab3d5dbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\library-1.0.19_78f0bb23743784ba5177d1b9659f6fa6d6a7bd06.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.mikepenz\fastadapter\1.2.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2585a05c70fab6285ed027b47e24376c36d52a3f">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.mikepenz-fastadapter-1.2.7_7d02df59a15d02a0bdd0be67929fda4aaadc1cc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.3.1_bff71017ec040d96040347847022b3e63832fca9.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.jaredrummler\material-spinner\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f106632c545d781e97197bc5659d0993ee04aa0b">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.jaredrummler-material-spinner-1.0.5_684a17cda68672f3eaa66192021f0c040cd79387.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_f1e56c4913ce44190f06550c8cd62fb3c7f0302c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_c5a573687790528960a2cdb5042d396490d51899.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\haha-1.3_2de8629f8471de321d4f185494a8420d2b7db5be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.3\f474798fde03291398b1a016118b9809a79550b7\MPAndroidChart-v2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f474798fde03291398b1a016118b9809a79550b7">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.3_53c7583be893c37adf4b59a2c6e0efc178b94e1e.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.2_516a80543cf98ca7e9563f5d2009a1053eeabad0.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.3.1_df6c5763a0b8d406c4fd54609d73126d630e7456.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.3.0_2158ab797410fea1299179f2f4dac60613e17098.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\1.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f3c15dd877bfdfbbd71f0d2f4c5139b52fd04735">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.wdullaer-materialdatetimepicker-1.5.1_f52d5afca5cf001de0e0b30b72e45ea8941a49b8.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.mikepenz\ionicons-typeface\2.0.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcdc378ec20dbeaaf0173eedac6b38c45489b257">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.mikepenz-ionicons-typeface-2.0.1.1_deedddb5c6596aafe6dc030353e8299aa05e1e47.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_2e9dfed07217fbd373ff4b6587c10e12f7bb202e.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.victor\lib\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81c668ce1da94d89f2d016cd15490c16df6187c9">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.victor-lib-1.0.1_5816915df9d2f713e7c2a4e95ace15d44897e33a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.3.1_52ed60c3cfefe5efa98f7dc7c1aa6859c236acc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3_737be33c92afa3d651417584f62e561120fe5e0c.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_2c1281809d9502f3eace4ab8acad0b72c6411d55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\greendao-1.3.0-beta-1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="185a8ff3f50dbd99e5238d6d411ee86dd87d2b0a">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\greendao-1.3.0-beta-1_93bd407817cbd20f0566d1122586ee2544a4e8f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.3.1_bff71017ec040d96040347847022b3e63832fca9.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.3.0_2158ab797410fea1299179f2f4dac60613e17098.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.8.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c0e104cedca43c5c5c39851605485e4e7e6c3a6">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.mikepenz-materialize-0.8.6_5f090bf51fa2e770267ea8ec21f1a9236d448d55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.3.1_df6c5763a0b8d406c4fd54609d73126d630e7456.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_6bf79bee7aa74c0f65b7b64a0862e72d39163e58.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\library-1.0.19_78f0bb23743784ba5177d1b9659f6fa6d6a7bd06.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_084b6fc53c645c907c57ae90b08783f1e5cff705.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.github.ganfra\material-spinner\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a973f67796996adb991bd6e63a11b2b88a571219">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.github.ganfra-material-spinner-1.1.0_626fef295dd02b7ca4f8aa8eba3f53c492623384.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\library\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="773103b47908c3026873309dd5d968b7fc6556eb">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.ogaclejapan.smarttablayout-library-1.6.0_ad424c452f7d50387e12a56405d447464e279505.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\5.1.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5b4c55619063d1007afc85fbb5902632cd5bc59b">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.mikepenz-materialdrawer-5.1.6_ea830093777d42a2b48b862286e20f36e609b139.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\uk-co-senab-photoview-source.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f45f6f2468c04434cbb5489fcdc7b3dd45b13cd3">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\uk-co-senab-photoview-source_bf5808a04df481baedd83749f51915f74afd61c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.5.0\d737653459be272e881d51024274fa4785225641\okhttp-urlconnection-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d737653459be272e881d51024274fa4785225641">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.5.0_a0cff00549b1fa46c2091696b8f8c8971e20ef76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\library-1.0.19_78f0bb23743784ba5177d1b9659f6fa6d6a7bd06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.3\f474798fde03291398b1a016118b9809a79550b7\MPAndroidChart-v2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f474798fde03291398b1a016118b9809a79550b7">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.3_53c7583be893c37adf4b59a2c6e0efc178b94e1e.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_c77655408f8c5209c7ea035690286b78787a79f2.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.3.1_df6c5763a0b8d406c4fd54609d73126d630e7456.jar" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_e6f430fe33fc8ff69f7eb84192ba036080f0f469.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_2c1281809d9502f3eace4ab8acad0b72c6411d55.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\uk-co-senab-photoview-source.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f45f6f2468c04434cbb5489fcdc7b3dd45b13cd3">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\uk-co-senab-photoview-source_bf5808a04df481baedd83749f51915f74afd61c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_c5a573687790528960a2cdb5042d396490d51899.jar" />
+    </item>
+    <item
+        jar="D:\android_study\SxuMiro\app\libs\greendao-1.3.0-beta-1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="185a8ff3f50dbd99e5238d6d411ee86dd87d2b0a">
+        <dex dex="D:\android_study\SxuMiro\app\build\intermediates\pre-dexed\debug\greendao-1.3.0-beta-1_93bd407817cbd20f0566d1122586ee2544a4e8f3.jar" />
+    </item>
+
+</items>

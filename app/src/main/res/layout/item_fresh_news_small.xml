@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="110dp"
+            android:layout_height="70dp"
+            android:layout_alignParentLeft="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_loading_small" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/img"
+            android:layout_marginLeft="8dp"
+            android:layout_toEndOf="@+id/img"
+            android:layout_toRightOf="@+id/img"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="我是标题sfsdfsdfdsfdsfsdfdsfdsffwqfwqqwtwaqgaeyqeaytgaefa"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:id="@+id/tv_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_title"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/tv_title"
+            android:singleLine="true"
+            android:text="袜子@无厘头"
+            android:textColor="@color/secondary_text_default_material_light"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/tv_views"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignEnd="@+id/tv_title"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/tv_title"
+            android:singleLine="true"
+            android:text="浏览120次"
+            android:textColor="@color/secondary_text_default_material_light"
+            android:textSize="10sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#ffd3d3d3" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

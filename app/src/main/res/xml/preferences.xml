@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:layout="@layout/preference_title"
+        android:title="基本设置">
+        <Preference
+            android:key="clear_cache"
+            android:layout="@layout/preference_item"
+            android:title="清除缓存" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="enable_fresh_big"
+            android:layout="@layout/preference_item"
+            android:title="大图模式" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:layout="@layout/preference_title"
+        android:title="其他设置">
+        <Preference
+            android:key="about_us"
+            android:layout="@layout/preference_item"
+            android:title="关于我们" />
+        <Preference
+            android:key="about_permit"
+            android:layout="@layout/preference_item"
+            android:title="开放源代码许可" />
+        <Preference
+            android:key="app_version"
+            android:layout="@layout/preference_item"
+            android:title="软件版本" />
+    </PreferenceCategory>
+</PreferenceScreen>

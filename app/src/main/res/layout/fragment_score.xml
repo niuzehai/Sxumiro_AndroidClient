@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_person_score_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="4dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        app:cardBackgroundColor="#FFF"
+        app:cardCornerRadius="0dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="8dp"
+                android:padding="8dp"
+                android:src="@drawable/ic_launcher" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:orientation="vertical"
+                android:padding="8dp">
+
+                <TextView
+                    android:id="@+id/tv_score_name_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_margin="8dp"
+                    android:background="@drawable/bg_orange_property_btn_selector"
+                    android:padding="4dp"
+                    android:text="姓名 学号"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/tv_score_gpa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_margin="8dp"
+                    android:background="@drawable/bg_orange_property_btn_selector"
+                    android:padding="4dp"
+                    android:text="平均绩点:2.12 必修绩点:2.05"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/tv_score_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_margin="8dp"
+                    android:background="@drawable/bg_orange_property_btn_selector"
+                    android:padding="4dp"
+                    android:text="上次更新时间:3月2日 22:11"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <include layout="@layout/score_list" />
+</LinearLayout>

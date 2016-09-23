@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:id="@+id/ll_score_item"
+    android:background="@drawable/bg_white_ll_selector"
+    android:clickable="true"
+    >
+
+    <TextView
+        android:padding="3dp"
+        android:id="@+id/tv_score_property"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text="必修"
+        android:textSize="14dp"
+        android:textColor="@color/white"
+        android:background="@drawable/bg_green_property_btn_selector"
+        android:clickable="true"
+        />
+
+    <TextView
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:id="@+id/tv_score_course_name"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:ellipsize="marquee"
+        android:focusable="false"
+        android:focusableInTouchMode="true"
+        android:maxEms="3"
+        android:text="语文"
+        android:textSize="14dp" />
+
+    <TextView
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:id="@+id/tv_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:ellipsize="end"
+        android:text="成绩"
+        android:gravity="left"
+        android:textSize="14dp" />
+
+    <TextView
+        android:paddingLeft="4dp"
+        android:id="@+id/tv_score_gpa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:ellipsize="end"
+        android:text="绩点"
+        android:gravity="right"
+        android:textSize="14dp" />
+
+</LinearLayout>

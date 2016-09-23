@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.do79.SxuMiro">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application xmlns:tools="http://schemas.android.com/tools"
+        android:name=".base.Application"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+        <activity
+            android:name="com.do79.SxuMiro.ui.MainActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.do79.SxuMiro.ui.FreshNewsDetailActivity"
+            android:label="@string/title_activity_fresh_news_detail"
+            android:theme="@style/FreshNewsDetailActivityTheme" />
+        <activity
+            android:name="com.do79.SxuMiro.ui.SchoolActivitiesDetailActivity"
+            android:label="@string/title_activity_school_activities_detail"
+            android:theme="@style/FreshNewsDetailActivityTheme" />
+        <activity
+            android:name=".ui.SettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.TimetableActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ui.LoginOptionsActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ui.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ui.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ui.BingingStudentIdActivity"
+            android:screenOrientation="portrait" />
+        /////////////////////////
+        <activity
+            android:name=".todo.MainActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity android:name=".todo.AddToDoActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".todo.MainActivity"
+            />
+
+        <activity android:name=".todo.ReminderActivity"
+            android:label="@string/app_name"
+            />
+
+        <service android:name=".todo.TodoNotificationService"
+            />
+        <service android:name=".todo.DeleteNotificationService"
+            />
+        <activity android:name=".todo.SettingsActivity"
+            android:parentActivityName=".todo.MainActivity"
+            />
+        <activity android:name=".ui.AboutActivity"
+            android:screenOrientation="portrait"
+            />
+
+    </application>
+
+</manifest>

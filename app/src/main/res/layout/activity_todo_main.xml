@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <!--<include layout="@layout/base_todo_toolbar"/>-->
+    <android.support.design.widget.CoordinatorLayout
+            android:id="@+id/myCoordinatorLayout"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            >
+
+        <LinearLayout
+            android:id="@+id/toDoEmptyView"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:src="@drawable/empty_view_bg"
+                android:layout_width="100dp"
+                android:layout_height="100dp" />
+            <TextView
+                android:text="@string/no_to_dos"
+                android:textColor="@color/secondary_text"
+                android:textSize="16sp"
+                android:paddingTop="4dp"
+                android:paddingBottom="8dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+            <com.do79.SxuMiro.todo.RecyclerViewEmptySupport
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                android:id="@+id/toDoRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        <com.melnykov.fab.FloatingActionButton
+            android:id="@+id/addToDoItemFAB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_margin="16dp"
+            android:src="@drawable/ic_add_white_24dp"
+            fab:fab_colorNormal="@color/primary"
+            fab:fab_colorPressed="@color/primary_pressed"
+            fab:fab_colorRipple="@color/ripple"
+            app:layout_behavior="com.do79.SxuMiro.todo.ScrollingFABBehaviour"/>
+
+    </android.support.design.widget.CoordinatorLayout>
+</LinearLayout>
